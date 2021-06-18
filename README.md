@@ -1,2 +1,2 @@
 # ATM-Transaction
-ATM Transaction project using C#
+ATM transaction project using the console application of C#
